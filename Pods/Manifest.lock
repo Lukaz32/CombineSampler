@@ -1,0 +1,34 @@
+PODS:
+  - Nimble (8.0.5)
+  - OpenCombine (0.8.0)
+  - OpenCombineDispatch (0.8.0):
+    - OpenCombine (>= 0.7)
+  - OpenCombineFoundation (0.8.0):
+    - OpenCombine (>= 0.7)
+  - Quick (2.2.0)
+
+DEPENDENCIES:
+  - Nimble
+  - OpenCombine
+  - OpenCombineDispatch
+  - OpenCombineFoundation
+  - Quick
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - OpenCombine
+    - OpenCombineDispatch
+    - OpenCombineFoundation
+    - Quick
+
+SPEC CHECKSUMS:
+  Nimble: 4ab1aeb9b45553c75b9687196b0fa0713170a332
+  OpenCombine: b3ef8bff80f511d63424ee8f07c0c464b6671e2e
+  OpenCombineDispatch: f995101e34c543b7817d3c46fe13f987d746bc4b
+  OpenCombineFoundation: a6ca52a4310d049e277570bc6f14bc09cbd4e2f4
+  Quick: 7fb19e13be07b5dfb3b90d4f9824c855a11af40e
+
+PODFILE CHECKSUM: b7580491b05adebcbe684b112bbf59eed39f8535
+
+COCOAPODS: 1.8.4
